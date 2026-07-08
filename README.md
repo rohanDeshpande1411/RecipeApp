@@ -55,3 +55,8 @@ https://dummyjson.com/auth
 
 Recipes:
 https://dummyjson.com/recipes
+
+# Scan QR for the Mobile application in Browser Emulators
+
+<img width="311" height="297" alt="image" src="https://github.com/user-attachments/assets/89eae130-a445-4934-a49d-d9979df56097" />
+
