@@ -4,7 +4,7 @@ Flutter Application Recipe App built with Bloc, Dio, Clean Architecture, Secure 
 This project demonstrates real-world Flutter development practices including authentication, API integration, state management, token handling, and local caching.
 
 # App ID and Password
-id: emilys
+id: emilys,
 Password: emilyspass
 
 # Features
@@ -20,13 +20,11 @@ Refresh token mechanism
 ## Recipe Module
 Fetch recipes from API  
 Recipe list/grid view  
-Recipe detail screen  
-Search and filtering support  
+Recipe detail screen 
 Pull-to-refresh  
 Loading state  
 Error state  
 Empty state  
-
 
 ## Offline First
 Cache recipes locally  
@@ -44,13 +42,12 @@ Automatic token refresh
 The project follows Feature Based Clean Architecture.
 
 # Packages Used
-
-flutter_bloc: State management 
-dio: API communication 
-flutter_secure_storage: Secure token storage 
-shared_preferences: Offline cache 
-equatable: Bloc state comparison 
-logger: API logging 
+flutter_bloc: State management,
+dio: API communication,
+flutter_secure_storage: Secure token storage,
+shared_preferences: Offline cache,
+equatable: Bloc state comparison,
+logger: API logging.
 
 # APIs Used
 Authentication:
